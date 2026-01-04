@@ -1,5 +1,5 @@
-# Sales_dashboard
-This project is part of my **Data Analyst Internship (Task 8)**.   The objective was to design a **basic interactive sales dashboard** using Power BI to analyze sales performance by **product, region, and month**.
+# Sales_interactive_dashboard
+The objective was to design a **basic interactive sales dashboard** using Power BI to analyze sales performance by **product, region, and month**.
 
 
 ## Dashboard Overview
@@ -44,5 +44,5 @@ This task helped me understand how to:
 ---
 
 ## Author
-**Aayush Pardeshi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aayush-pardeshi-67a19521b/)  
+**Kolimi Noor Basha****  
+🔗 [LinkedIn](https://www.linkedin.com/in/noor-k/)  
